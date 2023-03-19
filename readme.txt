@@ -5,7 +5,7 @@ Donate link: https://so-wp.com/donations
 Requires at least: 4.9
 Tested up to: 6.2
 Requires PHP: 7.4
-Stable tag: 1.1.0
+Stable tag: 1.1.1
 License: GPL-3.0+
 License URI: https://www.gnu.org/licenses/gpl-3.0.txt
 
@@ -52,11 +52,16 @@ Please open an issue on [Github](https://github.com/senlin/multilingual-comments
 1. Multilingual Comments WPML 2 comments, 1 English and 1 in Portuguese
 
 == Changelog ==
-= 1.1.0 =
+= 1.1.1 =
 
 * date: March 19, 2023
 * add readme.txt and screenshot
 * update README.md
+
+= 1.1.0 =
+
+* date: March 1, 2023
+* commit OOP version
 
 = 1.0.0 =
 

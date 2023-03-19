@@ -4,7 +4,7 @@
  * Plugin URI: https://wordpress.org/plugins/multilingual-comments-wpml
  * Description: This plugin combines comments from all translations of the posts and pages using WPML. Comments are internally still attached to the post or page in the language they were made on.
  *
- * Version: 1.1.0
+ * Version: 1.1.1
  * Author: Pieter Bos
  * Author URI: https://so-wp.com
  *

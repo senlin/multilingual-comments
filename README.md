@@ -69,11 +69,16 @@ This repo is open to _any_ kind of contributions.
 
 ## Changelog
 
-### 1.1.0
+### 1.1.1
 
 * date: March 19, 2023
 * add readme.txt and screenshot
 * update README.md
+
+### 1.1.0
+
+* date: March 18, 2023
+* commit OOP version
 
 ### 1.0.0
 
