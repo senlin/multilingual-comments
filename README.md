@@ -20,6 +20,8 @@ https://wordpress.or/plugins/wpml-comment-merging/ and https://github.com/JulioP
 
 There are no Settings, it simply does what it says on the label.
 
+This plugin was developed with the assistance of ChatGPT, an AI language model created by [OpenAI](https://www.openai.com/).
+
 If you are looking to show comments in all languages on your website with WPML installed, I highly recommend installing the Multilingual Comments WPML plugin. 
 
 ## Frequently Asked Questions
