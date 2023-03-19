@@ -28,10 +28,6 @@ If you are looking to show comments in all languages on your website with WPML i
 
 ### Where are the Settings?
 
-Yes, the plugin transforms Simplified Chinese slugs into pinyin.
-
-### Does Pinyin Slugs work with Traditional Chinese characters?
-
 You can stop looking, there are no settings. This plugin works out of the box.
 
 ### Why is the plugin showing an error message after activation?
