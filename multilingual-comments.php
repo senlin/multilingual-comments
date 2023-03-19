@@ -1,16 +1,29 @@
 <?php
 /**
- * Plugin Name: Multilingual Comments (WPML)
+ * Plugin Name: Multilingual Comments WPML
  * Plugin URI: https://wordpress.org/plugins/multilingual-comments-wpml
  * Description: This plugin combines comments from all translations of the posts and pages using WPML. Comments are internally still attached to the post or page in the language they were made on.
+ *
  * Version: 1.1.0
  * Author: Pieter Bos
  * Author URI: https://so-wp.com
- * License: GPL-2.0+
- * License URI: http://www.gnu.org/licenses/gpl-2.0.txt
+ *
+ * Requires at least:	4.9
+ * Tested up to:		6.2
+ 
+ * License: GPL-3.0+
+ * License URI: http://www.gnu.org/licenses/gpl-3.0.txt
+ *
  * Text Domain: multilingual-comments-wpml
- * Domain Path: /languages
- */
+ * 
+ * GitHub Plugin URI:	https://github.com/senlin/multilingual-comments-wpml
+ * GitHub Branch:		main
+ 
+  * @package WordPress
+  * @author Pieter Bos
+  * @since 1.0.0
+  */
+
 
 /**
  * This is a fixed version of the no longer maintained WPML Comment Merging plugin:
