@@ -1,8 +1,8 @@
 # Multilingual Comments WPML
 
-[![plugin version](https://img.shields.io/wordpress/plugin/v/multilingual-comments-wpml.svg)](https://wordpress.org/plugins/multilingual-comments-wpml) [![WP compatibility](https://plugintests.com/plugins/multilingual-comments-wpml/wp-badge.svg)](https://plugintests.com/plugins/multilingual-comments-wpml/latest) [![PHP compatibility](https://plugintests.com/plugins/multilingual-comments-wpml/php-badge.svg)](https://plugintests.com/plugins/multilingual-comments-wpml/latest)
+[![plugin version](https://img.shields.io/wordpress/plugin/v/multilingual-comments-wpml.svg)](https://wordpress.org/plugins/multilingual-comments-wpml)
 
-###### Last updated on March 19, 2023
+###### Last updated on March 29, 2023
 ###### tested up to WP 6.2
 ###### Authors: [Pieter Bos](https://github.com/senlin)
 ###### [Stable Version](https://wordpress.org/plugins/multilingual-comments-wpml) (via WordPress Plugins Repository)
@@ -64,6 +64,13 @@ This repo is open to _any_ kind of contributions.
 [WordPress](https://profiles.wordpress.org/senlin/)
 
 ## Changelog
+
+### 1.1.2
+
+* date: March 29, 2023
+* update readme.txt
+* add icon
+* release on WP Plugins Directory
 
 ### 1.1.1
 

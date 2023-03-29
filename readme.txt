@@ -1,4 +1,4 @@
-=== Multilingual Comments (WPML) ===
+=== Multilingual Comments WPML ===
 Contributors: senlin
 Tags: WPML, comments, multilingual, languages, all comments, all languages, combine comments, merge comments
 Donate link: https://so-wp.com/donations
@@ -48,10 +48,17 @@ This plugin is an Addon for [WPML](https://wpml.org), the plugin that enables an
 
 Please open an issue on [Github](https://github.com/senlin/multilingual-comments-wpml/issues)
 
-== Screenshots ==
+== Screenshot ==
 1. Multilingual Comments WPML 2 comments, 1 English and 1 in Portuguese
 
 == Changelog ==
+= 1.1.2 =
+
+* date: March 29, 2023
+* update readme.txt
+* add icon
+* release on WP Plugins Directory
+
 = 1.1.1 =
 
 * date: March 19, 2023
