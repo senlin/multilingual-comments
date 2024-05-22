@@ -65,6 +65,12 @@ This repo is open to _any_ kind of contributions.
 
 ## Changelog
 
+### 1.2.1
+
+* date: May 22, 2024
+* remove Requires Plugins header introduced in WP 6.5 (throwing error on WP.org, although works fine in site's Dashboards)
+* remove tags in readme.txt, limit changed to 5 tags only (also throwing error on WP.org)
+
 ### 1.2
 
 * date: May 22, 2024

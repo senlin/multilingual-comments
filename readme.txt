@@ -1,11 +1,11 @@
 === Multilingual Comments WPML ===
 Contributors: senlin
-Tags: WPML, comments, multilingual, languages, all comments, all languages, combine comments, merge comments
+Tags: WPML, merge comments, all comments, all languages, combine comments
 Donate link: https://so-wp.com/donations
 Requires at least: 4.9
 Tested up to: 6.5
 Requires PHP: 7.4
-Stable tag: 1.2
+Stable tag: 1.2.1
 License: GPL-3.0+
 License URI: https://www.gnu.org/licenses/gpl-3.0.txt
 
@@ -52,6 +52,12 @@ Please open an issue on [Github](https://github.com/senlin/multilingual-comments
 1. Multilingual Comments WPML 2 comments, 1 English and 1 in Portuguese
 
 == Changelog ==
+
+= 1.2.1 =
+
+* date: May 22, 2024
+* remove Requires Plugins header introduced in WP 6.5 (throwing error on WP.org, although works fine in site's Dashboards)
+* remove tags in readme.txt, limit changed to 5 tags only (also throwing error on WP.org)
 
 = 1.2 =
 
