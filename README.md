@@ -2,8 +2,8 @@
 
 [![plugin version](https://img.shields.io/wordpress/plugin/v/multilingual-comments-wpml.svg)](https://wordpress.org/plugins/multilingual-comments-wpml)
 
-###### Last updated on March 29, 2023
-###### tested up to WP 6.2
+###### Last updated on May 22, 2024
+###### tested up to WP 6.5
 ###### Authors: [Pieter Bos](https://github.com/senlin)
 ###### [Stable Version](https://wordpress.org/plugins/multilingual-comments-wpml) (via WordPress Plugins Repository)
 ###### [Plugin homepage](https://so-wp.com/plugin/multilingual-comments-wpml)
@@ -22,7 +22,7 @@ There are no Settings, it simply does what it says on the label.
 
 This plugin was developed with the assistance of ChatGPT, an AI language model created by [OpenAI](https://www.openai.com/).
 
-If you are looking to show comments in all languages on your website with WPML installed, I highly recommend installing the Multilingual Comments WPML plugin. 
+If you are looking to show comments in all languages on your website with WPML installed, I highly recommend installing the Multilingual Comments WPML plugin.
 
 ## Frequently Asked Questions
 
@@ -64,6 +64,12 @@ This repo is open to _any_ kind of contributions.
 [WordPress](https://profiles.wordpress.org/senlin/)
 
 ## Changelog
+
+### 1.2
+
+* date: May 22, 2024
+* add condition to prevent $otherID returning `null` ([issue #4](https://github.com/senlin/multilingual-comments-wpml/issues/4#issuecomment-2069137039) props to [@Lindfyrsten](https://github.com/Lindfyrsten)
+* add Requires Plugins header introduced in WP 6.5
 
 ### 1.1.2
 

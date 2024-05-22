@@ -3,9 +3,9 @@ Contributors: senlin
 Tags: WPML, comments, multilingual, languages, all comments, all languages, combine comments, merge comments
 Donate link: https://so-wp.com/donations
 Requires at least: 4.9
-Tested up to: 6.2
+Tested up to: 6.5
 Requires PHP: 7.4
-Stable tag: 1.1.2
+Stable tag: 1.2
 License: GPL-3.0+
 License URI: https://www.gnu.org/licenses/gpl-3.0.txt
 
@@ -22,7 +22,7 @@ There are no Settings, it simply does what it says on the label.
 
 This plugin was developed with the assistance of ChatGPT, an AI language model created by [OpenAI](https://www.openai.com/).
 
-If you are looking to show comments in all languages on your website with WPML installed, I highly recommend installing the Multilingual Comments WPML plugin. 
+If you are looking to show comments in all languages on your website with WPML installed, I highly recommend installing the Multilingual Comments WPML plugin.
 
 <hr>
 
@@ -52,6 +52,13 @@ Please open an issue on [Github](https://github.com/senlin/multilingual-comments
 1. Multilingual Comments WPML 2 comments, 1 English and 1 in Portuguese
 
 == Changelog ==
+
+= 1.2 =
+
+* date: May 22, 2024
+* add condition to prevent $otherID returning `null` ([issue #4](https://github.com/senlin/multilingual-comments-wpml/issues/4#issuecomment-2069137039) props to [@Lindfyrsten](https://github.com/Lindfyrsten)
+* add Requires Plugins header introduced in WP 6.5
+
 = 1.1.2 =
 
 * date: March 29, 2023
